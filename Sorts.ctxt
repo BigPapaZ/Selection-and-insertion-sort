@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Sorts
+comment0.text=\r\n\ Contains\ several\ methods\ for\ sorting\ lists\ using\ iterators\r\n
+comment1.params=begin
+comment1.target=void\ selectionSort(SimpleListIterator)
+comment1.text=\r\n\ Performs\ the\ Selection\ Sort\ algorithm\ on\ the\ list\r\n\ that\ created\ the\ given\ iterator\r\n\ @param\ begin\ an\ iterator\ positioned\ just\ before\ the\ first\ element\r\n
+comment2.params=begin
+comment2.target=void\ insertionSort(SimpleListIterator)
+comment2.text=\r\n\ Performs\ the\ Insertion\ Sort\ algorithm\ on\ the\ list\r\n\ that\ created\ the\ given\ iterator\r\n\ @param\ begin\ an\ iterator\ positioned\ just\ before\ the\ first\ element\r\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
